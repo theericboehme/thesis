@@ -191,7 +191,7 @@ statsmodels==0.9.0
 sympy==1.3
 tables==3.5.1
 tblib==1.3.2
-terminado==0.8.1
+#terminado==0.8.1
 testpath==0.4.2
 toml==0.10.1
 toolz==0.9.0
