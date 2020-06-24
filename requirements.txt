@@ -205,7 +205,7 @@ tqdm==4.31.1
 traitlets==4.3.2
 tzlocal==2.1
 unicodecsv==0.14.1
-urllib3==1.24.1
+urllib3==1.24.2
 validators==0.15.0
 watchdog==0.10.2
 wbdata==0.2.7
